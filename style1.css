@@ -1,0 +1,36 @@
+
+
+#header
+{
+  postion: relative;
+  margin: 0px;
+  font-size: 35px;
+  font-family: serif;
+  text-align: center;
+}
+
+#saper
+{
+  margin-top: -10px;
+}
+
+img.icon
+{
+  width: 35px;
+  height: 35px;
+}
+
+body
+{
+  background-color: #C3C3C3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+canvas
+{
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
